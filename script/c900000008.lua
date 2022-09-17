@@ -1,4 +1,4 @@
-Unwavering Hope - Anko
+--Unwavering Hope - Anko
 --Umbrella scripted by ahtelel, updated by AlphaKretin
 local s,id=GetID()
 function s.initial_effect(c)
